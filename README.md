@@ -64,10 +64,7 @@ public class TestApp {
           break ;
         }
       }
-
-
-
-    }
+ }
 
     if ( shout!=0) {
 
@@ -85,13 +82,8 @@ public class TestApp {
       }
     }
 
-
-
   System.out.println(game) ;
-  
-  
-  
-  
+   
   }
 
   private static String[] getStdin() {
